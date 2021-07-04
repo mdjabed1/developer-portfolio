@@ -44,5 +44,14 @@ img{
     margin: 5%;
     padding: 10px;
     border-radius: 20px;
-    border
-
+}
+#jabed{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+#jabed1{
+    border-left: 7px solid;
+    border-image: linear-gradient(#fffb00, #00ff95);
+    border-image-slice: 1;
+}
