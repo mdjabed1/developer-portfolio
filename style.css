@@ -15,7 +15,7 @@ img{
     border-radius: 200%;
     width: 500px;  
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -31,5 +31,18 @@ section{
     color: rgb(247, 247, 247);
     padding: 10px 20px;
     border-radius: 5px;
-    co
 }
+.orange-color{
+    color: orange;
+}
+.color{
+    color: rgb(247, 0, 255);
+}
+.experiance-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin: 5%;
+    padding: 10px;
+    border-radius: 20px;
+    border
+
