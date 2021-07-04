@@ -55,3 +55,6 @@ img{
     border-image: linear-gradient(#fffb00, #00ff95);
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+}
