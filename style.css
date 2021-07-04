@@ -1,5 +1,6 @@
 body{
     font-family: font-family: 'Poppins', sans-serif;;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -57,4 +58,14 @@ img{
 }
 footer p{
     text-align: center;
+}
+.top-baner{
+    background-image: url("img/top-banner.png");
+    margin: 0;
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
