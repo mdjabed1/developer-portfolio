@@ -17,7 +17,6 @@ img{
 }
 section{
     display: flex;
-    margin-bottom: 100pxs;
 }
 .half-width{
     width: 100%;
